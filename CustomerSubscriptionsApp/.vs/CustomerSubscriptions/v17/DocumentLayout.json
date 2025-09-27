@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\views\\customersubscriptions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\views\\customersubscriptions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\data\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\data\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\models\\customersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\models\\customersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\controllers\\customersubscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\controllers\\customersubscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|c:\\users\\admin\\downloads\\customersubscriptionsapp\\customersubscriptionsapp\\customersubscriptions.web\\views\\customersubscriptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB97A4B-1858-4CF3-A78E-81A970EC11F9}|CustomerSubscriptions.Web\\CustomerSubscriptions.Web.csproj|solutionrelative:customersubscriptions.web\\views\\customersubscriptions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T16:35:13.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Data\\IdentityDataSeeder.cs",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Data\\IdentityDataSeeder.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Data\\IdentityDataSeeder.cs",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Data\\IdentityDataSeeder.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvx0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:09:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:09:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T18:32:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T18:32:11.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Create.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Create.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T17:00:19.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T16:35:15.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T18:25:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Program.cs",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:27:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\README.md",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\README.md",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\README.md",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\README.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-27T14:29:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:07:51.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Models\\CustomerSubscription.cs",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Models\\CustomerSubscription.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Models\\CustomerSubscription.cs",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Models\\CustomerSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:07:47.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerSubscriptionsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Controllers\\CustomerSubscriptionsController.cs",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Controllers\\CustomerSubscriptionsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Controllers\\CustomerSubscriptionsController.cs",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Controllers\\CustomerSubscriptionsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:27:16.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\appsettings.json",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-27T14:29:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\CustomerSubscriptionsApp\\CustomerSubscriptionsApp\\CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Index.cshtml",
+              "RelativeToolTip": "CustomerSubscriptions.Web\\Views\\CustomerSubscriptions\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T18:31:52.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+@model IEnumerable<CustomerSubscriptions.Web.Models.CustomerSubscription>
+@{
+    ViewData["Title"] = "Customer Subscription";
+}
+
+<h2>Customer Subscription</h2>
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Customer ID</th>
+            <th>Customer Name</th>
+            <th>Subscription Name</th>
+            <th>Subscription Count</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Active</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.CustomerId</td>
+            <td>@item.CustomerName</td>
+            <td>@item.SubscriptionName</td>
+            <td>@item.SubscriptionCount</td>
+            <td>@item.StartDate</td>
+            <td>@item.EndDate</td>
+            <td>@(item.IsActive ? "Enabled" : "Disabled")</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+    </table>
+

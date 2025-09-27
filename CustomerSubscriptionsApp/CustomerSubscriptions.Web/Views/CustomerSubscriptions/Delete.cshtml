@@ -1,0 +1,24 @@
+@model CustomerSubscriptions.Web.Models.CustomerSubscription
+@{
+    ViewData["Title"] = "Delete Subscription";
+}
+
+<h2>Delete Subscription</h2>
+
+<div class="alert alert-warning">Are you sure you want to delete this record?</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Customer</dt>
+    <dd class="col-sm-9">@Model.CustomerId - @Model.CustomerName</dd>
+    <dt class="col-sm-3">Subscription</dt>
+    <dd class="col-sm-9">@Model.SubscriptionName</dd>
+    <dt class="col-sm-3">Count</dt>
+    <dd class="col-sm-9">@Model.SubscriptionCount</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
